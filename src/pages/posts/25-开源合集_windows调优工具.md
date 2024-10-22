@@ -1,4 +1,4 @@
-<img src="https://img.picui.cn/free/2024/10/22/67176ccbb538d.png" width="800" />  
+<img src="https://img.picui.cn/free/2024/10/22/67176ccbb538d.png" width="400" />  
 
 <small>windows调优工具</small>
 
