@@ -8,7 +8,7 @@ import { SITE } from './src/config';
 import rehypeCustomizeImageSrc from './rehype-customize-image-src.js';
 
 const DEFAULT_FORMAT = 'YYYY/MM/DD';
-const WEEKLY_REPO_NAME = 'tw93/weekly';
+const WEEKLY_REPO_NAME = 'dxzyw/weekly';
 const START_DATE = '2022-10-10';
 
 function formatDate(date) {

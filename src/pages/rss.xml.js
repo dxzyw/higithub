@@ -15,7 +15,7 @@ export function GET() {
   return rss({
     title: '开源周刊',
     description: '记录工程师 Tw93 的不枯燥生活',
-    site: 'https://weekly.tw93.fun/',
+    site: 'https://weekly.herotops.xyz/',
     customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
     items: posts.map((item) => {
       const [issueNumber, issueTitle] = item.url.split('/posts/')[1].split('-');
