@@ -1,4 +1,4 @@
-<img src="https://img.picui.cn/free/2024/10/15/670e07de8c1a1.png" width="800" />  
+<img src="https://img.picui.cn/free/2024/10/22/67176d99de2e7.png" width="800" />  
 
 <small>devops工具</small>
 
