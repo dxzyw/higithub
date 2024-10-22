@@ -6,11 +6,11 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/tw93/weekly.git"
+    "url": "https://github.com/dxzyw/weekly.git"
   },
   "author": {
-    "name": "Tw93",
-    "email": "tw93@qq.com"
+    "name": "dxzyw",
+    "email": "dxzyw@qq.com"
   },
   "license": "MIT",
   "scripts": {

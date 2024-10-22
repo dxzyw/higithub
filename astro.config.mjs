@@ -26,7 +26,7 @@ function getWeeklyDate(num) {
 }
 
 function getTwitterImage(num) {
-	return num >= 110 ? `https://weekly.tw93.fun/assets/${num}.jpg` : undefined;
+	return num >= 110 ? `https://higithub.herotops.xyz/assets/${num}.jpg` : undefined;
 }
 
 function defaultLayoutPlugin() {
