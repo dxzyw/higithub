@@ -6,6 +6,7 @@ import { defineConfig } from 'astro/config';
 import { parse } from 'node-html-parser';
 import { SITE } from './src/config';
 import rehypeCustomizeImageSrc from './rehype-customize-image-src.js';
+import vercel from '@astrojs/vercel/serverless';
 
 const DEFAULT_FORMAT = 'YYYY/MM/DD';
 const WEEKLY_REPO_NAME = 'dxzyw/weekly';
@@ -76,4 +77,11 @@ export default defineConfig({
 			remarkPlugins: [defaultLayoutPlugin],
 			rehypePlugins: [rehypeCustomizeImageSrc],
 	},
+	output: 'server',
+	adapter: vercel({
+	  webAnalytics: { enabled: true }
+	}),	
 });
+
+
+
