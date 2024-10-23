@@ -79,13 +79,7 @@ export default defineConfig({
 			remarkPlugins: [defaultLayoutPlugin],
 			rehypePlugins: [rehypeCustomizeImageSrc],
 	},
-	output: 'server',
-    adapter: vercel({
-    	webAnalytics: {
-        enabled: true,
-    },
-	includeFiles: ['./src/env.d.ts'],
-	}),	
+	
 });
 
 
