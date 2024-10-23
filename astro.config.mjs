@@ -6,7 +6,7 @@ import { defineConfig } from 'astro/config';
 import { parse } from 'node-html-parser';
 import { SITE } from './src/config';
 import rehypeCustomizeImageSrc from './rehype-customize-image-src.js';
-import vercel from '@astrojs/vercel/serverless';
+import vercel from '@astrojs/vercel';
 
 const DEFAULT_FORMAT = 'YYYY/MM/DD';
 const WEEKLY_REPO_NAME = 'dxzyw/weekly';
