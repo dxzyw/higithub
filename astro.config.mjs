@@ -3,6 +3,7 @@ import dayjs from 'dayjs';
 import tailwind from '@astrojs/tailwind';
 
 import { defineConfig } from 'astro/config';
+import vercel from '@astrojs/vercel/serverless';
 import { parse } from 'node-html-parser';
 import { SITE } from './src/config';
 import rehypeCustomizeImageSrc from './rehype-customize-image-src.js';
@@ -77,7 +78,12 @@ export default defineConfig({
 			remarkPlugins: [defaultLayoutPlugin],
 			rehypePlugins: [rehypeCustomizeImageSrc],
 	},
-
+	output: 'server',
+    adapter: vercel({
+    	webAnalytics: {
+        enabled: true,
+    },
+	}),	
 });
 
 
