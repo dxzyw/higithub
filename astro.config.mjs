@@ -9,6 +9,7 @@ import { SITE } from './src/config';
 import rehypeCustomizeImageSrc from './rehype-customize-image-src.js';
 
 
+
 const DEFAULT_FORMAT = 'YYYY/MM/DD';
 const WEEKLY_REPO_NAME = 'dxzyw/weekly';
 const START_DATE = '2022-10-10';
@@ -83,6 +84,7 @@ export default defineConfig({
     	webAnalytics: {
         enabled: true,
     },
+	includeFiles: ['./src/env.d.ts'],
 	}),	
 });
 
