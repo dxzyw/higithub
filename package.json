@@ -6,7 +6,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/dxzyw/weekly.git"
+    "url": "https://github.com/dxzyw/higithub.git"
   },
   "author": {
     "name": "dxzyw",
@@ -22,6 +22,7 @@
     "postbuild": "pagefind --site dist"
   },
   "dependencies": {
+    "@astrojs/vercel": "^7.8.2",
     "@pagefind/default-ui": "^1.1.0",
     "@vercel/analytics": "^1.3.1",
     "astro": "^4.7.1",
