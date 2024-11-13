@@ -29,12 +29,23 @@ const content = {
 };
 const currentUrl = `${SITE.homePage}${currentPage}`;
 
-// The next article
-const posts = await Astro.glob('../pages/posts/*.md');
+
+
+let posts;
+if (currentPage.startsWith('/posts/')) {
+  posts = await Astro.glob('../pages/posts/*.md'); // 加载 posts 文章
+} else if (currentPage.startsWith('/daily_article/')) {
+  posts = await Astro.glob('../pages/daily_article/*.md'); // 加载 daily 文章
+} else {
+  posts = []; // 如果不是这两种情况，返回空数组
+}
+
+// 对获取的文章进行排序
 const allPosts = sortPosts(posts);
 const postIndex = getIndex(currentPage);
-let nextUrl = postIndex > 2 ? allPosts[allPosts.length - postIndex + 1].url : '';
-let prevUrl = postIndex < allPosts.length ? allPosts[allPosts.length - postIndex - 1].url : '';
+let nextUrl = postIndex < allPosts.length ? allPosts[postIndex].url : ''; // 获取下一篇文章的 URL
+let prevIndex = Math.max(postIndex - 2, 0); // 确保索引不小于 0
+let prevUrl = prevIndex < allPosts.length ? allPosts[prevIndex].url : ''; // 获取上一篇文章的 URL
 ---
 
 <html lang="ch">

@@ -4,20 +4,34 @@ import AstroLogo from './Header/AstroLogo.astro';
 import { SITE } from '@/config';
 import { parseTitle, sortPosts } from '@/util';
 
-const posts = await Astro.glob('../pages/posts/*.md');
-const allPosts = sortPosts(posts);
+// 根据当前页面路径加载相应的文章
+let posts;
+if (currentPage.startsWith('/posts/')) {
+  posts = await Astro.glob('../pages/posts/*.md'); // 加载 posts 文章
+} else if (currentPage.startsWith('/daily_article/')) {
+  posts = await Astro.glob('../pages/daily_article/*.md'); // 加载 daily 文章
+} else {
+  posts = []; // 如果不是这两种情况，返回空数组
+}
 
+const allPosts = sortPosts(posts); // 对获取的文章进行排序
+
+// 处理当前页面路径
 let currentPageMatch = currentPage.slice(1).replace(/\/$/, '');
 
+// 构建侧边栏内容
 const sidebarSections = allPosts.reduce((sections, post, index) => {
   const route = {
     title: parseTitle(post.url),
     link: post.url.slice(1),
   };
+
+  // 根据当前页面类型添加链接
   if (index === 0) {
     sections.push({ text: '', children: [] });
   }
   sections[sections.length - 1].children.push(route);
+
   return sections;
 }, []);
 ---

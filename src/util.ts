@@ -1,6 +1,19 @@
 // Helper function to extract and decode the title part from the URL
+//const extractTitlePart = (currentPage: string) => {
+ // return decodeURIComponent(currentPage.split('/posts/')[1]);
+//};
+
+
+
 const extractTitlePart = (currentPage: string) => {
-  return decodeURIComponent(currentPage.split('/posts/')[1]);
+  // 使用 split 方法分割路径
+  const parts = currentPage.split('/'); // 按照 '/' 分割路径
+  // 检查是否有足够的部分
+  if (parts.length > 2) {
+    return decodeURIComponent(parts[2]); // 返回第二级目录的内容
+  }
+  // 如果没有足够的部分，返回空字符串或抛出错误
+  return '';
 };
 
 // Convert to title

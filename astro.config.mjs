@@ -52,9 +52,14 @@ function defaultLayoutPlugin() {
 
         if (!frontmatter.date) {
             let postNumber = '0';
-            if (filePath && filePath.includes('/posts/')) {
-                const parts = filePath.split('/posts/')[1].split('-');
-                postNumber = parts.length > 0 ? parts[0] : '0';
+            if (filePath) {
+                if (filePath.includes('/posts/')) {
+                    const parts = filePath.split('/posts/')[1].split('-');
+                    postNumber = parts.length > 0 ? parts[0] : '0';
+                } else if (filePath.includes('/daily_article/')) {
+                    const parts = filePath.split('/daily_article/')[1].split('-');
+                    postNumber = parts.length > 0 ? parts[0] : '0';
+                }
             }
             frontmatter.date = SITE.repo === WEEKLY_REPO_NAME
                 ? getWeeklyDate(postNumber)
@@ -63,9 +68,14 @@ function defaultLayoutPlugin() {
 
         if (SITE.repo === WEEKLY_REPO_NAME) {
             let postNumber = '0';
-            if (filePath && filePath.includes('/posts/')) {
-                const parts = filePath.split('/posts/')[1].split('-');
-                postNumber = parts.length > 0 ? parts[0] : '0';
+            if (filePath) {
+                if (filePath.includes('/posts/')) {
+                    const parts = filePath.split('/posts/')[1].split('-');
+                    postNumber = parts.length > 0 ? parts[0] : '0';
+                } else if (filePath.includes('/daily_article/')) {
+                    const parts = filePath.split('/daily_article/')[1].split('-');
+                    postNumber = parts.length > 0 ? parts[0] : '0';
+                }
             }
             frontmatter.twitterImg = getTwitterImage(postNumber);
         }
