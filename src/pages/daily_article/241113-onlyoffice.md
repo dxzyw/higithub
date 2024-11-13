@@ -1,4 +1,4 @@
-<img src="../../../public/assets/image/241113-onlyoffice.png" alt="github.com/ONLYOFFICE/DocumentServer">
+<img src="https://github.com/dxzyw/higithub/raw/main/public/assets/image/241113-onlyoffice.png" alt="github.com/ONLYOFFICE/DocumentServer">
 
 
 <small>4.8k star,开源免费office，可以卸掉wps和Office了！</small>
