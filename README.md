@@ -2,7 +2,7 @@
 
 > 记录工程师 的不枯燥生活，欢迎订阅，也欢迎 [推荐](https://github.com/dxzyw/higithub/discussions/22) 你的好东西，Fork 自用可见 [开发文档](https://github.com/dxzyw/weekly/blob/main/Deploy.md)，期待你玩得开心~
 
-* [第 01 期 - 开源合集_好用的工具](https://higithub.herotops.xyz/posts/01-开源合集_好用的工具)
+* [第 01 期 - Open Source Collection_Useful Tools](https://higithub.herotops.xyz/posts/01-Open Source Collection_Useful Tools)
 * [第 02 期 - 开源合集_好玩的工具](https://higithub.herotops.xyz/posts/02-开源合集_好玩的工具)
 * [第 03 期 - 开源合集_终端工具](https://higithub.herotops.xyz/posts/03-开源合集_终端工具)
 * [第 04 期 - 开源合集_运维工具](https://higithub.herotops.xyz/posts/04-开源合集_运维工具)
