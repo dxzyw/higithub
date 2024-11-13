@@ -19,12 +19,6 @@ const currentPage = pageUrl.pathname;
 
 let title = parseTitle(currentPage);
 
-// 获取文件名并编码
-const fileName = title; // 假设 title 是从文件名解析得到的
-const encodedFileName = encodeURIComponent(fileName); // 编码文件名
-
-// 设置响应头
-Astro.response.headers.set('Content-Disposition', `inline; filename="${encodedFileName}"`);
 
 const { date, pic, desc, url, twitterImg } = Astro.props.frontmatter;
 const content = {
