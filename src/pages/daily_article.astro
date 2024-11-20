@@ -16,6 +16,27 @@ const allPosts = sortPosts(posts);
     <HeadCommon />
     <HeadSEO pageURL={SITE.homePage} content={{}} />
     <title>{SITE.title}</title>
+
+    <style>
+      .visit-counter-wrapper {
+        text-align: center;
+        padding: 1rem 0;
+        color: var(--theme-text-lighter);
+        font-size: 0.9rem;
+      }
+      
+      .visit-counter {
+        display: inline-block;
+        margin-left: 0.5rem;
+        opacity: 0.9;
+        transition: opacity 0.3s;
+      }
+      
+      .visit-counter:hover {
+        opacity: 1;
+      }
+    </style>
+
   </head>
 
   <body>
@@ -27,6 +48,14 @@ const allPosts = sortPosts(posts);
         {allPosts.map((p) => <Card post={p} />)}
       </div>
     </div>
+    {/* 添加访问计数器 */}
+    <div class="visit-counter-wrapper">
+      <img 
+        class="visit-counter"
+        src="https://count.getloli.com/@:daily_article-count" 
+        alt="herotops count"
+        />
+      </div>      
     <Footer />
   </body>
 </html>
