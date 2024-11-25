@@ -1,4 +1,4 @@
-<img src="https://github.com/dxzyw/higithub/raw/main/public/assets/image/241115-github-desktop.png">
+<img src="/assets/image/241115-github-desktop.png">
 
 <small>19.8k star,github官方出品,GitHub Desktop</small>
 

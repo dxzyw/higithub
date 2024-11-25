@@ -1,6 +1,4 @@
-<img src="https://github.com/dxzyw/higithub/raw/main/public/assets/image/241121-Reactive-Resume.png">
-
-![](241121-Reactive-Resume.png)
+<img src="/assets/image/241121-Reactive-Resume.png">
 
 <small>25.6k star,简历自动生成软件</small>
 

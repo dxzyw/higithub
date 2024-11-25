@@ -1,4 +1,4 @@
-<img src="https://github.com/dxzyw/higithub/raw/main/public/assets/image/241114-win11debloat.png" alt="github.com/ONLYOFFICE/DocumentServer">
+<img src="/assets/image/241114-win11debloat.png" alt="github.com/ONLYOFFICE/DocumentServer">
 
 <small>13.8k star,强的炸裂！一个脚本优化你的windows</small>
 
