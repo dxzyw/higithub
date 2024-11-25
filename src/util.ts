@@ -39,3 +39,10 @@ export const sortPosts = (allPosts: any) => {
     return getIndexFromUrl(a.url) - getIndexFromUrl(b.url);
   });
 };
+
+export const sortPosts_daily = (allPosts: any) => {
+  return allPosts.sort((a, b) => {
+    const getIndexFromUrl = (url: string) => parseInt(extractTitlePart(url).split('-')[0]);
+    return getIndexFromUrl(b.url) - getIndexFromUrl(a.url);
+  });
+};

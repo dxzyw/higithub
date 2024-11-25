@@ -2,7 +2,7 @@
 const { currentPage } = Astro.props;
 import AstroLogo from './Header/AstroLogo.astro';
 import { SITE } from '@/config';
-import { parseTitle, sortPosts } from '@/util';
+import { parseTitle, sortPosts ,sortPosts_daily} from '@/util';
 
 // 根据当前页面路径加载相应的文章
 let posts;
@@ -14,7 +14,8 @@ if (currentPage.startsWith('/posts/')) {
   posts = []; // 如果不是这两种情况，返回空数组
 }
 
-const allPosts = sortPosts(posts); // 对获取的文章进行排序
+// 根据路径决定排序方式
+const allPosts = currentPage.startsWith('/daily_article/') ? sortPosts_daily(posts) : sortPosts(posts); // 对获取的文章进行排序
 
 // 处理当前页面路径
 let currentPageMatch = currentPage.slice(1).replace(/\/$/, '');
