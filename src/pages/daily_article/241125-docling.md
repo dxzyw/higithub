@@ -1,4 +1,4 @@
-<img src="/assets/image/241124-docling.png">
+<img src="/assets/image/241125-docling.png">
 
 <small>10.4k star,开源热榜第一！IBM开源工具</small>
 
