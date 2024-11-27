@@ -1,4 +1,5 @@
-【运维干货分享】Kubernetes 集群上的 etcd 备份和恢复
+<img src="/assets/image/k8s.png" style="max-width: 70%; height: auto;">
+<small>【运维干货分享】Kubernetes 集群上的 etcd 备份和恢复</small>
 
 ![etcd](image-1.png)
 
