@@ -36,13 +36,13 @@ export const getIndex = (currentPage: string) => {
 export const sortPosts = (allPosts: any) => {
   return allPosts.sort((a, b) => {
     const getIndexFromUrl = (url: string) => parseInt(extractTitlePart(url).split('-')[0]);
-    return getIndexFromUrl(a.url) - getIndexFromUrl(b.url);
+    return getIndexFromUrl(b.url) - getIndexFromUrl(a.url);
   });
 };
 
 export const sortPosts_daily = (allPosts: any) => {
   return allPosts.sort((a, b) => {
     const getIndexFromUrl = (url: string) => parseInt(extractTitlePart(url).split('-')[0]);
-    return getIndexFromUrl(b.url) - getIndexFromUrl(a.url);
+    return getIndexFromUrl(a.url) - getIndexFromUrl(b.url);
   });
 };
