@@ -4,7 +4,7 @@
 
 在linux上我们top应该是最熟悉的命令之一，有些同学可能还用过htop，但是neohtop更酷炫，更强大。
 
-![](./241129-neohtop.png)
+![](/assets/image/241129-neohtop.png)
 
 目前该项目已经在github上获得了4.2k star，作者最初的想法是用于对自己mac的监控，所以mac用户更建议尝试。
 
@@ -18,7 +18,7 @@
 
 作者开发工具的初衷是因为自己的mac内存溢出，但他并不想使用htop。
 
-![](./241129-neohtop-1.png)
+![](/assets/image/241129-neohtop-1.png)
 
 
 ## neotop的一些特性

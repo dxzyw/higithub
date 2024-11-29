@@ -1,4 +1,6 @@
-开源日志工具，吊打elasticsearch？
+<img src="/assets/image/241128-victorialogs.png">
+
+<small>开源日志工具，吊打elasticsearch？</small>
 
 今天看到VictoriaMetrics发布的victorialogs发布正式版，很早之前就有关注，而之前更多的是使用VictoriaMetrics作为prometheus的远程存储。
 
@@ -16,7 +18,7 @@
 
 如它只支持单节点部署，目前没有集群版本，主要原因是单台性能足够，不过官方给出了高可用的双写方案，也有完善的备份恢复机制，不过对于日志收集来讲，这些也不是最重要的。
 
-![高可用解决方案](241128-victorialogs.png)
+![高可用解决方案](/assets/image/241128-victorialogs.png)
 
 
 ## 如何快速部署
