@@ -1,0 +1,26 @@
+# robots.txt for website
+
+# 允许所有搜索引擎爬虫访问
+User-agent: *
+Allow: /
+
+# 指定 Sitemap 位置
+Sitemap: https://herotops.xyz/sitemap.xml
+
+# 常见爬虫优化设置
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+# 禁止访问的目录（如果有的话）
+# Disallow: /private/
+# Disallow: /admin/
+# Disallow: /temp/
