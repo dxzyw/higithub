@@ -1,0 +1,323 @@
+---
+const { currentPage } = Astro.props;
+import AstroLogo from './Header/AstroLogo.astro';
+import { SITE } from '@/config';
+import { parseTitle, sortPosts, sortPosts_daily } from '@/util';
+
+// 初始化 sidebarSections
+let sidebarSections = [];
+
+// 处理当前页面路径
+let currentPageMatch = currentPage.slice(1).replace(/\/$/, '');
+
+// 获取文章内的标题
+async function getHeadings(post) {
+  try {
+    const content = await post.rawContent();
+    const headingLines = content.split('\n').filter(line => line.startsWith('#'));
+    return headingLines.map(line => {
+      const level = line.match(/^#+/)[0].length;
+      const title = line.replace(/^#+\s*/, '').replace(/\{#.*\}/, '').trim();
+      const customId = line.match(/\{#([^}]+)\}/)?.[1];
+      const slug = customId || title.toLowerCase()
+        .replace(/[^a-z0-9\u4e00-\u9fa5]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+      
+      return { level, title, slug };
+    });
+  } catch (error) {
+    console.error('Error parsing headings:', error);
+    return [];
+  }
+}
+
+// 根据当前页面路径加载相应的文章
+let posts;
+if (currentPage.startsWith('/posts/')) {
+  posts = await Astro.glob('../pages/posts/*.md');
+  const allPosts = sortPosts(posts);
+  sidebarSections = allPosts.reduce((sections, post, index) => {
+    const route = {
+      title: parseTitle(post.url),
+      link: post.url.slice(1),
+    };
+    if (index === 0) {
+      sections.push({ text: '', children: [] });
+    }
+    sections[sections.length - 1].children.push(route);
+    return sections;
+  }, []);
+} else if (currentPage.startsWith('/daily_article/')) {
+  posts = await Astro.glob('../pages/daily_article/*.md');
+  const allPosts = sortPosts_daily(posts);
+  sidebarSections = allPosts.reduce((sections, post, index) => {
+    const route = {
+      title: parseTitle(post.url),
+      link: post.url.slice(1),
+    };
+    if (index === 0) {
+      sections.push({ text: '', children: [] });
+    }
+    sections[sections.length - 1].children.push(route);
+    return sections;
+  }, []);
+} else if (currentPage.startsWith('/interviews/')) {
+  try {
+    posts = await Astro.glob('../pages/interviews/**/*.md');
+    const decodedCurrentPage = decodeURIComponent(currentPage);
+    const currentPost = posts.find(post => decodeURIComponent(post.url) === decodedCurrentPage);
+    
+    // 处理文章列表
+    const allPosts = sortPosts(posts);
+    sidebarSections = [{
+      text: '所有文章',
+      children: allPosts.map(post => ({
+        title: parseTitle(post.url),
+        link: post.url.slice(1),
+      }))
+    }];
+    
+    // 处理当前文章的标题
+    if (currentPost) {
+      const postHeadings = await getHeadings(currentPost);
+      if (postHeadings && postHeadings.length > 0) {
+        sidebarSections.push({
+          text: '本文导航',
+          children: postHeadings.map(heading => ({
+            title: heading.title,
+            link: `${currentPost.url}#${heading.slug}`,
+            level: heading.level
+          }))
+        });
+      }
+    }
+  } catch (error) {
+    console.error('Error processing interviews:', error);
+  }
+}
+---
+
+<nav aria-labelledby='grid-left' class='pt-6 text-gray-800 dark:text-gray-200'>
+  <div class='logo flex'>
+    <a href='/' class='logo-image' data-astro-prefetch>
+      <AstroLogo size={40} />
+    </a>
+    <a href='/' data-astro-prefetch>
+      <h1 class='text-gray-800 dark:text-gray-200'>{SITE.title}</h1>
+    </a>
+  </div>
+  <ul class='nav-groups'>
+    {
+      sidebarSections.map((section) => (
+        <li>
+          <div class='nav-group'>
+            <h2 class='nav-group-title has-children'>
+              {section.text}
+            </h2>
+            <ul class='nav-links open'>
+              {section.children.map((child) => (
+                <li>
+                  <div class={`nav-link ${child.level ? `heading-${child.level}` : ''}`}>
+                    {child.children?.length > 0 ? (
+                      <div class='heading-wrapper has-children'>
+                        <a href={`/${child.link}`}>
+                          {child.title}
+                        </a>
+                      </div>
+                    ) : (
+                      <a href={`/${child.link}`}>
+                        {child.title}
+                      </a>
+                    )}
+                    {child.children?.length > 0 && (
+                      <ul class='nav-links open'>
+                        {child.children.map(subChild => (
+                          <li class={`nav-link heading-${subChild.level}`}>
+                            <a href={`/${subChild.link}`}>
+                              {subChild.title}
+                            </a>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+
+<style>
+  nav {
+    width: 100%;
+    margin-right: 1rem;
+  }
+  .nav-groups {
+    height: 100%;
+    padding: 2rem 0;
+    overflow-x: visible;
+    overflow-y: auto;
+    max-height: 100vh;
+  }
+
+  .nav-group-title {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+  }
+
+  .heading-2 { padding-left: 1rem; }
+  .heading-3 { padding-left: 2rem; }
+  .heading-4 { padding-left: 3rem; }
+
+  .nav-link a {
+    display: block;
+    padding: 0.3rem 1rem;
+    color: var(--theme-text-lighter);
+  }
+  
+  .nav-link a:hover {
+    color: var(--theme-accent);
+  }
+  
+  .nav-link.active a {
+    color: var(--theme-accent);
+    font-weight: bold;
+  }
+  
+  .nav-links.closed {
+    display: none;
+  }
+  
+  .nav-links.open {
+    display: block;
+  }
+  
+  .has-children {
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .has-children::after {
+    content: '▼';
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 0.8em;
+    transition: transform 0.2s;
+  }
+  
+  .has-children.closed::after {
+    transform: translateY(-50%) rotate(-90deg);
+  }
+  
+  .heading-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 2rem;
+  }
+  
+  .nav-links {
+    transition: height 0.3s ease;
+    overflow: hidden;
+  }
+  
+  .nav-links.closed {
+    display: none;
+  }
+  
+  .nav-links.open {
+    display: block;
+  }
+
+  /* 添加目标高亮样式 */
+  .target-highlight {
+    background-color: var(--theme-accent);
+    color: white !important;
+    transition: all 0.3s ease;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+  }
+
+  /* 确保标题可以作为滚动目标 */
+  h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 2rem;
+  }
+
+  /* 只对 interviews 页面的标题应用特殊样式 */
+  :global(.interviews-page h1[id]),
+  :global(.interviews-page h2[id]),
+  :global(.interviews-page h3[id]),
+  :global(.interviews-page h4[id]),
+  :global(.interviews-page h5[id]),
+  :global(.interviews-page h6[id]) {
+    scroll-margin-top: 100px;
+    padding: 0.5rem 0;
+  }
+</style>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const isInterviewsPage = window.location.pathname.startsWith('/interviews/');
+
+    // 展开/折叠功能保持不变
+    const clickableElements = document.querySelectorAll('.has-children');
+    clickableElements.forEach(element => {
+      element.addEventListener('click', (e) => {
+        e.stopPropagation();
+        element.classList.toggle('closed');
+        const navLinks = element.nextElementSibling;
+        if (navLinks && navLinks.classList.contains('nav-links')) {
+          navLinks.classList.toggle('closed');
+          navLinks.classList.toggle('open');
+        }
+      });
+    });
+
+    // 修改跳转功能
+    if (isInterviewsPage) {
+      document.querySelectorAll('.nav-link a').forEach(link => {
+        link.addEventListener('click', (e) => {
+          // 检查链接是否包含 hash
+          const href = link.getAttribute('href');
+          const hashMatch = href?.match(/#([^#]+)$/);
+          
+          if (hashMatch) {
+            e.preventDefault();
+            e.stopPropagation();
+            
+            const targetId = hashMatch[1];
+            console.log('Target ID:', targetId); // 调试输出
+            
+            const target = document.getElementById(targetId);
+            console.log('Target element:', target); // 调试输出
+            
+            if (target) {
+              // 更新 URL
+              history.pushState(null, '', href);
+              
+              // 滚动到目标位置
+              target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+              
+              // 添加高亮效果
+              target.classList.add('target-highlight');
+              setTimeout(() => {
+                target.classList.remove('target-highlight');
+              }, 3000);
+            } else {
+              console.log('Target element not found for ID:', targetId);
+            }
+          }
+        });
+      });
+    }
+  });
+</script>

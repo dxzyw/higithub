@@ -1,0 +1,68 @@
+---
+import ThemeSwitch from './ThemeSwitch.astro';
+---
+
+<ThemeSwitch />
+
+<script type="text/javascript" src="https://gw.alipayobjects.com/os/k/h3/heti-addon.min.js"></script>
+<script type="text/javascript" src="https://gw.alipayobjects.com/os/k/3j/lozad.min.js"></script>
+<script type="text/javascript" src="https://gw.alipayobjects.com/os/k/x5/intense.min.js"></script>
+
+<!-- This is intentionally inlined to avoid FOUC -->
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    // Optimization of letter spacing
+    const heti = new Heti('.heti');
+    heti.autoSpacing();
+
+    // Lazy loading of images
+    const observer = lozad('.lozad', {
+      loaded: (el) => {
+        el.alt = el.getAttribute('data-alt');
+      },
+    });
+    observer.observe();
+
+    // Open external links in a new tab
+    Array.from(document.links).forEach((link) => {
+      if (link.hostname !== window.location.hostname) {
+        link.target = '_blank';
+      }
+    });
+
+    // Image zoom for non-mobile devices
+    const zoomImgs = document.querySelectorAll('#write img');
+    if (zoomImgs.length > 0 && !/Android|iPhone/i.test(navigator.userAgent)) {
+      Intense && Intense(zoomImgs);
+    }
+  });
+</script>
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5833SX866C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5833SX866C');
+</script>
+
+<footer class="text-sm leading-[1.75] mt-4">
+  <div class="text-center mt-10 mb-4 text-gray-500 dark:text-gray-400">
+    <!-- 原有的 footer 内容 -->
+    
+    <!-- 添加 ICP 备案信息 -->
+    <div>
+      <a 
+        href="https://beian.miit.gov.cn" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="hover:text-gray-700 dark:hover:text-gray-300"
+      >
+        晋ICP备2024049510号-1
+      </a>
+    </div>
+  </div>
+</footer>

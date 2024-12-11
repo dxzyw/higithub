@@ -1,0 +1,59 @@
+---
+import HeadCommon from '../components/HeadCommon.astro';
+import HeadSEO from '../components/HeadSEO.astro';
+import Card from '../components/Card.astro';
+import Header from '../components/Header/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE } from '@/config';
+import { sortPosts } from '@/util';
+
+const posts = await Astro.glob('./posts/*.md');
+const allPosts = sortPosts(posts);
+---
+
+<html lang="ch">
+  <head>
+    <HeadCommon />
+    <HeadSEO pageURL={SITE.homePage} content={{}} />
+    <title>{SITE.title}</title>
+    <style>
+      .visit-counter-wrapper {
+        text-align: center;
+        padding: 1rem 0;
+        color: var(--theme-text-lighter);
+        font-size: 0.9rem;
+      }
+      
+      .visit-counter {
+        display: inline-block;
+        margin-left: 0.5rem;
+        opacity: 0.9;
+        transition: opacity 0.3s;
+      }
+      
+      .visit-counter:hover {
+        opacity: 1;
+      }
+    </style>    
+  </head>
+
+  <body>
+    <Header />
+    <div
+      class="mx-auto -mt-5 mb-12 xl:max-w-7xl w-full lg:max-w-5xl md:max-w-2xl max-w-xl md:box-border box-content md:px-0 px-3"
+    >
+      <div class="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 mx-0 md:-mr-5 mr-0">
+        {allPosts.map((p) => <Card post={p} />)}
+      </div>
+    {/* 添加访问计数器 */}
+    <div class="visit-counter-wrapper">
+      <img 
+        class="visit-counter"
+        src="https://count.getloli.com/@:herotops-count" 
+        alt="herotops count"
+        />
+      </div>      
+    </div>
+    <Footer />
+  </body>
+</html>

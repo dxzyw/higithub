@@ -1,0 +1,4282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://herops.site/</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/daily_article</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/rss.xml</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241205-chsrc</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241204-IPTV</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241203-keep</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241202-stock</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241201-changedetection</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241129-neohtop</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241128-victorialogs</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241127-sampler</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241126-chartdb</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241125-docling</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241122-bbot</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241121-Reactive-Resume</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241120-docker_macos</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241119-bruno</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241118-croc</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241115-github-desktop</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241114-win11debloat</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241113-onlyoffice</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241112-dioxus</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241111-exo</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241111-opentofu</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241110-photoview</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241108-icones</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241107-paperless-ngx</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241106-oha</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241105-aural-player</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241104-DockDoor</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241103-dockerc</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241101-kubernetes-goat</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241031-gophish</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241030-beszel</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241029-fsnotes</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241028-agent.exe</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241027-ArchiveBox</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241025-apihub</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241024-firecracker</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241023-open-source</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241023-screenpipe</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241022-follow</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241021-surya</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241020-maroto</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241018-wealthfolio</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241017-materialYouNewTab</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241016-timer-app</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241015-activitywatch</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241014-easyfind</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241013-maccy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241010-lunarvim</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241009-trivy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241008-libcimbar</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241007-k8sgpt</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241006-Bulk-Crap-Uninstaller</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241005-DevOps-Bash-tools</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241004-rainfrog</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241003-Zorin-OS-17.2</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241002-why-not-use-linux</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/241001-certimate</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240930-cpu.land</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240929-qstudio</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240928-zfile</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240927-YesPlayMusic</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240926-fastdfs开源分布式文件系统及迁移部署</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240926-killercoda</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240925-amis</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240925-全球云原生项目合集，快来看看你知道几个</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240924-kali-linux</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240924-the-art-of-command-line</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240923-HivisionIDPhotos</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240922-Foliate</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240921-imfile</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240921-一份适合个人的服务器安全指南</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240920-grapesjs</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240919-Retrieval-based-Voice-Conversion-WebUI</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240919-几个好玩的github项目</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240918-cryptomator</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240917-pintree</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240916-linkding</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240915-JarEditor</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240915-推荐这款神器：Perplexity</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240914-Kazumi</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240913-github开源ocr神器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240913-jenkins</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240913-lnav</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240913-再见Jenkins,一款更适合国人的自动化部署工具，贼带劲</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240913-工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240912-neko</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240911-3.3k star开源的Notepad++文本编辑器替代品，跨平台</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240911-deskreen</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240911-编辑器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240910-SQLpage</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240910-macos上实用工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240909-evcc</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240908-dokku</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240907-aws-devops-zero-to-hero</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240906-postiz-app</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240905-awesome-chatgpt-prompts</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240904-lobe-chat</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240903-kotaemon</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240902-Docker-OSX</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240901-LibreTranslate</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240831-authentik</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240830-hazelcast</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240829-dweebui</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240828-dice</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240827-mealie</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240826-app-ideas</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240825-ragflow</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240824-IntelOwl</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240823-crawlee</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240822-plane</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240821-grafana</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240820-huly</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240819-pglite</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240818-karpenter</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240817-zincsearch</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240816-caddy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240815-webvm</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240814-pgbackweb</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240813-linux-command</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240812-devops-exercises</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240812-infisical</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240811-sentry</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240810-mind-map</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240810-shell-check</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240809-rnote</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240808-mediago</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240807-unigetui</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240806-winutil</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240805-komorebi</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240804-devzat</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240803-diff-pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240802-devdocs</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240801-git-credential</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240731-gnucash</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240730-dufs</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240729-gotify</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240728-docker</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240728-talos</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240727-container</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240727-iptv</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240726-mindoc</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240725-how-study-k8s</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240725-rustscan</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240724-dicovre-service</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240724-ish</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240723-bunkerweb</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240722-kasm</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240721-rclone</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240721-sharedrop</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240720-api</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240719-build-your-own-x</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240718-TranslucentTB</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240717-imhex</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240716-screen-picture</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240715-omniparse</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240714-generative-ai-for-beginners</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240713-zotero</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240712-json-crack</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240712-webhook</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240711-nirsoft</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240711-removerized</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240710-logseq</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240709-jam</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240708-30daypython</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240707-river</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240706-dblab</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240705-docker-data</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240705-mosh</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240704-sql-studio</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240703-RTranslator</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240702-ente</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240701-yazi</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240630-NewPipe</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240629-daytona</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240628-pocketbase</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240627-audio-share</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240626-zed</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240625-duckdb</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240624-CyberChef</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240623-coolify</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240621-networkmanager</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240524-开源好东西，推荐！！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240430-douyin</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240430-lan-mouse</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240429-Proxyman</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240429-Velero</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240429-WatchYourLAN</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240429-airbyte</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240428-wingetui</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240425-screenity</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240425-zenuml</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240424-ImTip</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240424-gradio</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240424-sessionbox</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240423-LightBulb</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240423-dashy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240423-pwd</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240422-ditto</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240422-keepassxc</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240422-myip</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240422-teleport</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240422-tiqu</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240418-Final2x</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240418-HandBrake</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240418-file-converter</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240418-windhawk</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240416-drawdb</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240416-streamlit</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240414-platuml</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240412-dashpress</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240412-heyform</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240411-gitbutler</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240411-webzip</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240410-NeatDownloadManager</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240410-homepage</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240410-nocodb</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240409-gitops实践</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240408-casaos</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240408-ombi</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240407-astro</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240407-groq</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240407-quivr</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240407-tesseract.js-ocr</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240407-website downloader</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240403-argo-cd</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240402-gitlab</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240329-awesome-selfhosted</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240329-gogs</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240328-ondev</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240327-Redis 的开源替代品-Dragonfly</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240327-fastapi</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240327-linux发行版最新排名</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240327-retina</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240327-suno</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240326-opsmanager</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240322-frogmouth</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240322-podman</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240321-bytebase</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240321-sqlchat</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240320-cryptpad</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240320-shell-gpt</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240319-fiora</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240315-musicn</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240314-puter</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240314-一款强大免费的影音管理系统</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240314-给windows安装docker</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240313-kodbox</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240313-kowl-kafka</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240313-regex-vis</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240312-onefetch</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240311-Hyprland</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240311-docker快速部署演示环境</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240310-xterminal</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240309-lux下载工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240308-手把手docker部署监控项目</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240307-docker启动云手机</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240306-3月份机械键盘</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240305-alt-tab替代</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240305-docker windows</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240304-droppoint</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240304-utools</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240302-推荐一些windows神器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240301-推荐几款windows神器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240229-2.29</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240228-酷炫的linux系统web管理平台</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240227-速查表</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240226-开源后台</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240223-2.23</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240221-freenginx</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-filebrowser</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-flowlauncher</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-knner</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-lighthouse</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-memos</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-vanblog</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-wox</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-健身记录</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240219-自动发简历</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240218-affine</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240216-sora</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240216-推荐一个高级项目，很好用！！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240213-12306</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240213-k8s-studio</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240211-instantbox</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240211-tale博客系统</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240209-github中文榜</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240208-nginx-proxy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240208-一键部署幻兽帕鲁</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240204-localsend</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240130-1.1k star，推荐一个强大的图标素材网站</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240130-rqlite</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240130-文档管理器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240129-everything</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240128-docker.ui</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240127-cmd-wrapped</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240127-mac时钟</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240127-vimwiki</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240127-直播录播</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240127-终端sql</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240126-goploy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240126-tiny-rdm</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240126-云原生kafka</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240125- Optimizer</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240125-wowtab</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240124-38w</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240124-二维码设计</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240123-局域网文件传输</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240122-网易</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240119-图片无损放大</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240117-DropIt</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240117-copyQ</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240117-leanote</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240117-mayfly</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240115-screentogif</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240115-snatch</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240115-工具箱</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240115-推荐几个网站</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-0621</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-1.1MBwindows小工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-199kb推荐一款工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-BluContextMenuManager</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-B站下载</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-ClipboardCanvas</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-Github上一款强大的时间管理工具：TidGi-Desktop！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-IDM</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-MyKeymap</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-RAMMap</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-Rubick</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-ShareX-ShareX</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-U盘-ventoy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-Weylus</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-YunaiV-ruoyi-vue-pro</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-app-Slidebox</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-app推送</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-barry-ran-QtScrcpy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-buzz</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-coolify</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-cron</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-cyberchef</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-c语言播放</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-dbgate</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-docker镜像下架解决方案</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-dockge</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-eagleget</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-earth</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-freecontrol</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-gallery-dl</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-genact</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-github-unwrapped-2023</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-gost</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-heynote</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-jsonhero</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-juicefs</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-knadh-listmonk</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-leetcode</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-listen1</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-listray</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-lookscan</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-macos数据库管理</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-markdown-思维导图</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-mitmproxy</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-mongoexpress</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-mypush推荐一款小而美的工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-nodeexporter</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-oceanbase</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-opentrace</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-optscale</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-pake</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-powertoys</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-quick</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-restic-restic</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-sqllite</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-sshx</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-tableagent</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-tailspin</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-termius</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-thefuck</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-trzsz</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-windows快捷方式管理</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-windwos工具推荐</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-windwos网络故障模拟器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-一套键盘鼠标控制多台电脑</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-中后台</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-仅890KB的小工具，永久强化你的电脑功能！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-代码表白</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-保护眼睛</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-全世界都在等华为</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-全屏</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-共享屏幕</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-剪贴板</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-压测</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-咔咔一通剪</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-在命令执行前先试一试</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-在线签署</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-在线项目管理</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-多线程版redis</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-工具-录屏</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-工具-文件夹颜色</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-工具合集</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-开源-esearch</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-开源的xp</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-开源阅读工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-微软出品</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-截图转化为html</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-拷贝神器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-推荐一个好用到爆的浏览器插件</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-推荐一款windows下仅8MB软件，太强大了！！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-摸鱼</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-文件夹管理器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-文件管理器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-架构图</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-流媒体下载</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-浏览器插件</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-照片托管</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-电脑管理手机</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-画图软件</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-留痕</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-百度云盘再见了</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-监控-cprobe</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-监控系统汇总</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-知识管理</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-私人相册管理</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-私人网盘</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-算法</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-终端-zellij</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-终端复用</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-网盘本地展示</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-网站-pixpin</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-网站监控</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-腾讯出品</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-让OrbStack带飞</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-超级复制</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-跨平台备份工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-软件-OEMexe</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-软件-mindclear</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-软件-清理文件</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-软件-闪电藤</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-轻量化协助</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-轻量级工具合集</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-这个插件也好用，推荐</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-远程管理PC工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240114-酷炫的量子纠缠</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/240102-未命名文章</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231025-2023年双十一机械键盘推荐</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231025-是时候公开了！！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231024-21.4kstar,微信插件</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231023-26.3k star，技术人都应该去看一份开源宝典！！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231023-3.6k star,推荐一款开源监控系统</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231023-41.8kstar，好用的markdown编辑器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231023-kafka-ui</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231018-postman替代品</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231018-运维手册</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231017-下载器gopeed</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231015-一图看懂docker如何工作的？</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231015-一图看懂如何将代码部署到生产环境</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231015-一图看懂，当你在浏览器中输入一个URL时，会发生什么？</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231013-etherpad在线编辑</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231013-spacedrive</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231012-windterm补充介绍</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231011-AWX</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231011-KeymouseGo</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231011-dfimage</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231011-pmm</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231011-windwos优化SophiApp</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231011-居然找到个又漂亮、又免费、又开源的工具，真可以用。</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231011-推荐一款开源工具合集</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231010-聊点基础的-prometheus+grafana</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231009-docsgpt</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231009-keka-mac解压缩</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231009-微信聊天记录备份</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231008-pg监控</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231008-好用，有点子酷炫的linux性能监控</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231008-开源桌面图床工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231008-开箱即用的终端文件管理工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231008-老照片还原</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231007-bpftrace-linux系统的分析工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231007-mac上制作gif</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231007-mac上的视频播放器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231007-toml</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231007-模拟k8s集群</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231007-程序员做菜</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231007-自定义touchbar</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231007-马斯克硬核迁移</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231005-AI擦除图像</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231005-TTime翻译助手</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231005-pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231005-tagLyst-Next</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231005-ttsedge</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231005-免费开源AI图像放大工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231004-nexttrace</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231002-开源搜索引擎</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/231002-超好看的主题配色方案</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230929-PDF操作软件</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230929-windows的quicklook</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230928-“史上最强！”windows系统优化神器，开源利器，强的离谱！！！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230928-哪吒监控</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230928-讯飞AI</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230926-nvim</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230926-windows内存清理</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230925-devtoys</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230925-geekdesk，桌面软件启动工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230925-gitness</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230925-git使用者福音</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230925-可观测平台-hyperdx</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230925-远程工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230921-shell脚本</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230920-65.1k star netdata</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230920-Real-time-translation-typing</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230920-pdf2word</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230920-rsync</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230920-开源12306抢票助手</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230918-kubernetes成长路线</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230918-starship轻量、迅速、可无限定制的高颜值终端！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230918-代码结构分析神器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230918-程序员成长路线</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230918-运维工程师是做什么的</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230917-filestash</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230917-nushell</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230917-pgcli</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230917-postgres mysql 区别</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230917-windows动态桌面壁纸</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230916-chartcube</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230915-nc命令</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230914-wsl</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230913-150个命令</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230913-dive</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230913-hyperfine</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230913-妙言</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230912-natpass</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230912-腾讯云TDSQL-C Serverless 产品体验</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230911-mojo</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230911-mycli</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230911-mysql管理工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230911-查看windows文件夹大小</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230910-Archery</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230910-Bun 1.0终于来了</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230910-ShortGPT</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230910-网络高手，早就把ping命令玩得很6了！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230909-spacedesk</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230908-lvs+redis</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230907-cat</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230907-pinpoint-原创</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230907-skywaling</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230907-win12</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230907-夜莺监控(nightingale),最强开源监控系统，推荐！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230906-jumpserver</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230906-开源waf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230906-适合开发者的ppt工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230905-工具站</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230905-常见内网穿透工具，收好了！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230905-开源副业</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230905-最古早的linux发行版</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230904-公众号相关信息汇总</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230902-命令行查看github项目</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230828-docker体积缩减</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230828-hollywood</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230828-linux命令速查手册</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230828-python in excel</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230828-一款强大、简洁的画图工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230828-一款酷炫的终端监控GPU工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230828-开源轻量级的web访问分析工具</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230824-开源阅读</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230824-程序员买房攻略</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230823-fzf</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230822-debian</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230822-企业级爬虫管理-crawlab</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230822-适合mac的终端warp</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230817-devops面试汇总</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230817-推荐5个火火火的GitHub开源项目</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230817-运维工程师面试汇总</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230816-2.6k star腾讯开源的Markdown编辑器，开箱即用、轻量简洁、易扩展</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230816-zadig云原生devops</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230814-vnote</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230814-又一款可视化神器，开源了</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230814-清华出品的学习神器，用完只有一个字，服！</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230811-cat彩色替代</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230811-python30天教程</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230811-redis桌管</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230811-yearing</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230811-基于git的wiki</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230811-所有算法都用python实现</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230811-界面版音视频下载</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230811-终端漂亮的python库</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230810-LX Music</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230810-python datasette</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230810-python 天气</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230810-命令行小抄</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230810-在线nginx配置</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230810-收藏</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230810-极简播放器</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230810-程序员定律</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230809-chatgpt-sidebar-chrome-extension</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230809-frp内网穿透</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230809-kafka-KnowStreaming</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230809-python进度条</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230809-web-check</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230809-wrk压测</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230808-CopyTranslator</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230808-kubesphere</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230808-开源书籍-docker-practice</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230808-监控-glances</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230807-navidrome</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230807-sharing电脑向手机分享</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230807-sniffnet网络流量</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230721-开源电子书</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://herops.site/posts/230721-看完2023互联网时薪排行榜，我沉默了</loc>
+ <priority>0.3</priority>
+ <lastmod>2024-12-10</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+=======
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>undefined</loc>
+        <lastmod>2024/12/10</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+>>>>>>> e12b37195d926af98c830d68b62abb5b1c16e59c
+</urlset>
