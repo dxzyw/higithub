@@ -1,4 +1,4 @@
-<img src="/images/241209-pilipala.png" />
+<img src="/assets/image/241209-pilipala.png" />
 
 <small>7.8k star,好用、简洁、开源的B站第三方客户端</small>
 

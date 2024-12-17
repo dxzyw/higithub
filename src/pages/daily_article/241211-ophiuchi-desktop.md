@@ -1,4 +1,4 @@
-<img src="/images/241211-ophiuchi-desktop.png" />
+<img src="/assets/image/241211-ophiuchi-desktop.png" />
 
 <small>1.3k star,太好用了！开发日常必备小工具推荐</small>
 
