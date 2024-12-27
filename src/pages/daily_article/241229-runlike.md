@@ -1,4 +1,4 @@
-    <img src="/assets/image/241229-runlike.png  " />
+    <img src="/assets/image/241229-runlike.png" />
 
     <small>2.2k star,一条命令，查看你docker启动的原始命令</small>
 
