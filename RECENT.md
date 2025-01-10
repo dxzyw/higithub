@@ -1,5 +1,5 @@
-* [第 01 期 - Open Source Collection_Useful Tools](https://higithub.herotops.xyz/posts/01-Open Source Collection_Useful Tools) - 2024-11-27
-* [第 02 期 - Open Source Collection_Fun Tools](https://higithub.herotops.xyz/posts/02-Open Source Collection_Fun Tools) - 2024-11-27
-* [第 03 期 - Open Source Terminal_Tools](https://higithub.herotops.xyz/posts/03-Open Source Terminal_Tools) - 2024-11-13
-* [第 04 期 - Open Source Collection_Operations Tools](https://higithub.herotops.xyz/posts/04-Open Source Collection_Operations Tools) - 2024-11-13
-* [第 05 期 - Open Source Collection_Database Tools](https://higithub.herotops.xyz/posts/05-Open Source Collection_Database Tools) - 2024-11-13
+* [第 230721 期 - 开源电子书](https://herotops.xyz/daily_article/230721-开源电子书) - 2024-11-27
+* [第 230721 期 - 看完2023互联网时薪排行榜，我沉默了](https://herotops.xyz/daily_article/230721-看完2023互联网时薪排行榜，我沉默了) - 2024-11-27
+* [第 230807 期 - navidrome](https://herotops.xyz/daily_article/230807-navidrome) - 2024-11-27
+* [第 230807 期 - sniffnet网络流量](https://herotops.xyz/daily_article/230807-sniffnet网络流量) - 2024-11-27
+* [第 230807 期 - sharing电脑向手机分享](https://herotops.xyz/daily_article/230807-sharing电脑向手机分享) - 2024-11-27
