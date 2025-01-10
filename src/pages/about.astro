@@ -1,0 +1,85 @@
+---
+import '../styles/heti.min.css';
+import HeadCommon from '../components/HeadCommon.astro';
+import HeadSEO from '../components/HeadSEO.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header/Header.astro';
+import { SITE } from '@/config';
+
+const title = '关于我';
+const description = '目前在上海，主职运维，日常推荐开源工具，偶尔写一些运维相关文章';
+---
+
+<html lang="zh-CN">
+  <head>
+    <HeadCommon />
+    <HeadSEO 
+      title={title}
+      description={description}
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main class="max-w-3xl mx-auto px-4 py-8">
+      <article class="content heti heti--classic">
+        <section class="main-section">
+          <h1 class="text-3xl font-bold mb-6">{title}</h1>
+          <p class="text-gray-600 dark:text-gray-400 mb-8">{description}</p>
+          
+          <!-- 个人介绍 -->
+          <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">个人介绍</h2>
+            <p>来自西北某小镇，17年毕业后，第一份工作是校招，17年4月份实习在上海，然后一直到现在。</p>
+            <p>呆过的公司没有超大型，但也有不同领域的头部互联网企业，所以工作经验也算丰富，偶尔会发一些技术类文章</p>
+          </section>
+
+          <!-- 技术相关 -->
+          <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">技术相关</h2>
+            <p>linux、python、k8s、prometheus、grafana、elk、redis、mysql等</p>
+          </section>          
+
+          <!-- 快速抵达 -->
+          <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">快速抵达</h2>
+            <ul class="list-disc pl-5 space-y-2">
+              <li>开源工具合集：<a href="https://herops.site" class="text-blue-600 hover:text-blue-800 dark:text-blue-400">开源工具合集</a></li>
+              <li>周报：<a href="https://weekly.herotops.xyz/" class="text-blue-600 hover:text-blue-800 dark:text-blue-400">每周周报</a></li>
+              <li>k8s学习笔记：<a href="http://herops.site/daily_article" class="text-blue-600 hover:text-blue-800 dark:text-blue-400">k8s学习笔记</a></li>
+              <li>运维笔记：<a href="http://herops.site/interviews" class="text-blue-600 hover:text-blue-800 dark:text-blue-400">运维笔记</a></li>
+            </ul>
+          </section>
+
+          <!-- 关于本站 -->
+          <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">关于本站</h2>
+            <p>很早之前就有类似的想法，直到AI时代的到来，使得一些事情变的简单，尤其是开发，本站域名为herops.site,herops寓意大侠之运维，另外还有一个域名为herotops.xyz</p>
+            <p>公众号写的比较早，很多内容也是最先发布在公众号</p>
+            <p>更多疑问，或者其它需求，可以具体沟通</p>
+          </section>            
+
+          <!-- 联系方式 -->
+          <section class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">联系方式</h2>
+            <ul class="list-disc pl-5 space-y-2">
+              <li>GitHub：<a href="https://github.com/dxzyw" class="text-blue-600 hover:text-blue-800 dark:text-blue-400">@dxzyw</a></li>
+              <li>公众号：大侠之运维</a></li>
+              <li>抖音：<a href="https://v.douyin.com/CeiJrSUJV/ 4@9.com" class="text-blue-600 hover:text-blue-800 dark:text-blue-400">大侠之运维</a></li>
+            </ul>
+          </section>
+        </section>
+      </article>
+    </main>
+
+    <Footer />
+
+    <style>
+      /* 移除了原有的网格布局样式 */
+      .content {
+        width: 100%;
+        margin: 0 auto;
+      }
+    </style>
+  </body>
+</html>
