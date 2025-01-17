@@ -1,4 +1,4 @@
-<img src="/assets/image/250117-midscene.md"/>
+<img src="/assets/image/250117-midscene.png"/>
 
 <small>3k star,字节开源，让 AI 给你写 UI 自动化测试，更愉悦的 UI 自动化体验</small>
 
