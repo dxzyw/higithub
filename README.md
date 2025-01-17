@@ -2,6 +2,13 @@
 
 > 记录工程师 的不枯燥生活，欢迎订阅，也欢迎 [推荐](https://github.com/dxzyw/higithub/discussions/22) 你的好东西，Fork 自用可见 [开发文档](https://github.com/dxzyw/weekly/blob/main/Deploy.md)，期待你玩得开心~
 
+* [第 250119 期 - cypress](https://herotops.xyz/daily_article/250119-cypress)
+* [第 250117 期 - midscene](https://herotops.xyz/daily_article/250117-midscene)
+* [第 250116 期 - FileCodeBox](https://herotops.xyz/daily_article/250116-FileCodeBox)
+* [第 250115 期 - tabby](https://herotops.xyz/daily_article/250115-tabby)
+* [第 250114 期 - monolith](https://herotops.xyz/daily_article/250114-monolith)
+* [第 250113 期 - cline](https://herotops.xyz/daily_article/250113-cline)
+* [第 250112 期 - xournalpp](https://herotops.xyz/daily_article/250112-xournalpp)
 * [第 250110 期 - peepdb](https://herotops.xyz/daily_article/250110-peepdb)
 * [第 250109 期 - filepilot](https://herotops.xyz/daily_article/250109-filepilot)
 * [第 250108 期 - nuclei](https://herotops.xyz/daily_article/250108-nuclei)
