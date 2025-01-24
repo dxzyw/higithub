@@ -2,6 +2,7 @@
 
 > 记录工程师 的不枯燥生活，欢迎订阅，也欢迎 [推荐](https://github.com/dxzyw/higithub/discussions/22) 你的好东西，Fork 自用可见 [开发文档](https://github.com/dxzyw/weekly/blob/main/Deploy.md)，期待你玩得开心~
 
+* [第 250126 期 - supabase](https://herotops.xyz/daily_article/250126-supabase)
 * [第 250123 期 - acme.sh](https://herotops.xyz/daily_article/250123-acme.sh)
 * [第 250121 期 - dokploy](https://herotops.xyz/daily_article/250121-dokploy)
 * [第 250121 期 - maxun](https://herotops.xyz/daily_article/250121-maxun)
