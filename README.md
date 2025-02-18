@@ -2,6 +2,11 @@
 
 > 记录工程师 的不枯燥生活，欢迎订阅，也欢迎 [推荐](https://github.com/dxzyw/higithub/discussions/22) 你的好东西，Fork 自用可见 [开发文档](https://github.com/dxzyw/weekly/blob/main/Deploy.md)，期待你玩得开心~
 
+* [第 250217 期 - upx](https://herotops.xyz/daily_article/250217-upx)
+* [第 250213 期 - SamWaf](https://herotops.xyz/daily_article/250213-SamWaf)
+* [第 250212 期 - Memento](https://herotops.xyz/daily_article/250212-Memento)
+* [第 250211 期 - sshfs](https://herotops.xyz/daily_article/250211-sshfs)
+* [第 250127 期 - md](https://herotops.xyz/daily_article/250127-md)
 * [第 250126 期 - supabase](https://herotops.xyz/daily_article/250126-supabase)
 * [第 250123 期 - acme.sh](https://herotops.xyz/daily_article/250123-acme.sh)
 * [第 250121 期 - maxun](https://herotops.xyz/daily_article/250121-maxun)
