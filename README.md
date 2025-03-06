@@ -2,6 +2,13 @@
 
 > 记录工程师 的不枯燥生活，欢迎订阅，也欢迎 [推荐](https://github.com/dxzyw/higithub/discussions/22) 你的好东西，Fork 自用可见 [开发文档](https://github.com/dxzyw/weekly/blob/main/Deploy.md)，期待你玩得开心~
 
+* [第 250304 期 - page](https://herotops.xyz/daily_article/250304-page-assist)
+* [第 250303 期 - pandas](https://herotops.xyz/daily_article/250303-pandas-ai)
+* [第 250228 期 - browser](https://herotops.xyz/daily_article/250228-browser-use)
+* [第 250227 期 - cobra](https://herotops.xyz/daily_article/250227-cobra)
+* [第 250226 期 - minimind](https://herotops.xyz/daily_article/250226-minimind)
+* [第 250225 期 - bunster](https://herotops.xyz/daily_article/250225-bunster)
+* [第 250224 期 - docmost](https://herotops.xyz/daily_article/250224-docmost)
 * [第 250221 期 - httpdbg](https://herotops.xyz/daily_article/250221-httpdbg)
 * [第 250219 期 - svgl](https://herotops.xyz/daily_article/250219-svgl)
 * [第 250218 期 - readest](https://herotops.xyz/daily_article/250218-readest)
