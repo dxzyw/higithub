@@ -1,3 +1,6 @@
+<img src="/assets/image/linux.png" style="max-width: 70%; height: auto;">
+
+<small>linux相关基础</small>
 # 面试基本信息
 
 ## 基础信息
