@@ -14,9 +14,9 @@ export function GET() {
 
   return rss({
     title: '开源周刊',
-    description: '记录工程师的不枯燥生活',
-    site: 'https://weekly.herotops.xyz/',
-    customData: `<image><url>https://gw.alipayobjects.com/zos/k/qv/coffee-2-icon.png</url></image>`,
+    description: '大侠之运维工具介绍',
+    site: 'https://herops.site/',
+    customData: `<image><url>https://img.picui.cn/free/2024/10/15/670e07de8c1a1.png'</url></image>`,
     items: posts.map((item) => {
       const [issueNumber, issueTitle] = item.url.split('/posts/')[1].split('-');
       const title = `第${issueNumber}期 - ${issueTitle}`;
