@@ -1,5 +1,6 @@
-<img src="/assets/image/docker-logo.png" style="max-width: 70%; height: auto;">
-<small>>**docker介绍**，第一期文档</small>
+<img src="/assets/image/docker-logo.png" style="max-width: 60%; height: auto;">
+
+<small>>docker介绍，第一期文档</small>
 
 ### **Docker容器技术第一部分**
 
